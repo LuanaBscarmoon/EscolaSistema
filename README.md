@@ -1,2 +1,4 @@
-# EscolaSistema
-Desenvolvimento do Sistema de uma Escola
+# Desenvolvimento de Software - 2022
+DS
+
+Prof. João
